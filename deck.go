@@ -21,7 +21,7 @@ func newDeck() deck {
 
 }
 
-// this is method
+// this is receiver method of type deck
 func (d deck) print() {
 	for _, value := range d {
 		fmt.Println(value)
