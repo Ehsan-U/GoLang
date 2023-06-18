@@ -12,11 +12,20 @@ func main() {
 	// declare
 	// var ehsan person
 
+	// method-1
+
+	// ehsan.firstName = "Ehsan"
+	// ehsan.lastName = "Ullah"
+
+	// method-2
+
 	// initialize
 	// ehsan = person{
 	// 	firstName: "Ehsan",
 	// 	lastName:  "Ullah",
 	// }
+
+	// method-3
 
 	// declaration and initialization
 	ehsan := person{
