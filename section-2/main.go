@@ -14,6 +14,7 @@ func main() {
 
 	// method-1
 
+	// initialize
 	// ehsan.firstName = "Ehsan"
 	// ehsan.lastName = "Ullah"
 
@@ -24,8 +25,6 @@ func main() {
 	// 	firstName: "Ehsan",
 	// 	lastName:  "Ullah",
 	// }
-
-	// method-3
 
 	// declaration and initialization
 	ehsan := person{
