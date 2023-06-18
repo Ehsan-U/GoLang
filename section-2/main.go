@@ -10,10 +10,16 @@ type person struct {
 
 func main() {
 	// declare
-	var ehsan person
+	// var ehsan person
 
 	// initialize
-	ehsan = person{
+	// ehsan = person{
+	// 	firstName: "Ehsan",
+	// 	lastName:  "Ullah",
+	// }
+
+	// declaration and initialization
+	ehsan := person{
 		firstName: "Ehsan",
 		lastName:  "Ullah",
 	}
